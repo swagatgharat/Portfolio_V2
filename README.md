@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Portfolio_V2
 
-## Getting Started
+**Portfolio_V2** is the second iteration of my personal portfolio website - redesigned for better performance, structure, and visual consistency.  
+Built with **Next.js + Tailwind CSS**, it emphasizes smooth animations, modular components, and SEO-friendly architecture.
 
-First, run the development server:
+This project serves as **Version 2** of my portfolio, evolving from [Portfolio_V1](https://github.com/swagatgharat/Portfolio_V1).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Preview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<img width="1728" height="835" alt="localhost_3000_" src="https://github.com/user-attachments/assets/f07b2f75-9aca-4315-af51-3ec99bab56d6" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- ⚡ **Next.js Powered** - Optimized routing, server-side rendering, and build performance  
+- 🎨 **Modern UI** - Clean, minimalist design with Tailwind CSS  
+- 📱 **Responsive Layout** - Fully responsive across desktop, tablet, and mobile  
+- 🧩 **Reusable Components** - Modular structure for scalability and maintenance  
+- ⚙️ **Centralized Assets** - Organized image and data management  
+- 🌐 **SEO Optimized** - Enhanced visibility and metadata support  
+- 💬 **Contact Integration** - Web3Forms or email-based contact options  
+- ☁️ **Deployed on Vercel** - Fast, reliable, and globally distributed hosting  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Category | Technology |
+|-----------|-------------|
+| **Frontend Framework** | Next.js (React) |
+| **Styling** | Tailwind CSS |
+| **Deployment** | Vercel |
+| **Data Handling** | JavaScript |
+| **Version Control** | Git & GitHub |
